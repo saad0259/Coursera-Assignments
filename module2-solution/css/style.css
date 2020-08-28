@@ -11,7 +11,7 @@ h1{
 
 body>div{
     position: relative;
-    background:#f1f3f8 ;
+    background:#a3a3a3 ;
     border: 1px solid #000;
 }
 body>div div{
@@ -46,7 +46,7 @@ p{
 {
     body>div{
         
-        width: 31%;
+        width: 31.33%;
         float: left;
         margin: 10px 1%;
         padding:10px 20px;
