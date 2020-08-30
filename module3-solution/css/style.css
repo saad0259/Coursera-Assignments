@@ -1,0 +1,44 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+}
+.navbar-brand h2{
+    font-size: 1.75em;
+    position: absolute;
+    bottom:-1px;
+
+}
+.navbar-brand{
+    
+    position: relative;
+    width: 200px;
+}
+.row{
+    margin: 0;
+}
+
+.row p{
+    padding: 2vw 3vw;
+    background: #eee;
+    
+}
+.col-md-4 h3{
+    background:#eee;
+    margin: 0;
+    padding: 10px 0 0;
+    vertical-align: center;
+}
+.container-fluid{
+    padding:0;
+}
+.row a{
+    line-height: 50px;
+}
+
+@media (max-width:767px)
+{
+ hr.visible-xs{
+     margin:0;
+
+ }
+
+}
